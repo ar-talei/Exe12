@@ -1,0 +1,121 @@
+body{
+    font-family: iransans;
+    direction: rtl;
+}
+* {
+    margin: 0;
+    padding: 0;
+  }
+.btngray{
+    background-color: #eaeaea;
+    color: black;
+    width: 125px;
+    height: 40px;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 25px;
+}
+.btnblue{
+    background-color:#003975;
+    color: black;
+    width: 125px;
+    height: 40px;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 25px;
+    
+}
+.nxtnav{
+    background-color:#003975;
+    color: white;
+    
+}
+.cover{
+    z-index: 2;
+    height: auto;
+      
+}
+.frminside{
+    width: 50%;
+    position: absolute;
+    top: 300px;
+    left: 50%;
+    margin-top: 150px;
+    margin-left: -25%;
+    border-radius: 50px;
+    color: black;
+    
+}
+.btnnside{
+    width: 10%;
+    position: absolute;
+    top: 300px;
+    left: 50%;
+    margin-top: 150px;
+    margin-left: -25%;
+    border-radius: 50px;
+    background-color: #003975;
+    color: white;
+    
+    
+}
+.imgcover{
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 3;
+
+}
+.inside41{
+    position: absolute;
+    top: 600px;
+    left: 50px;
+    width: 15%;
+    height: 150px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    
+    
+}
+.inside42{
+    position: absolute;
+    top: 600px;
+    left: 290px;
+    width: 15%;
+    height: 150px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    
+}
+.inside43{
+    position: absolute;
+    top: 600px;
+    left: 520px;
+    width: 15%;
+    height: 150px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    
+}
+.inside44{
+    position: absolute;
+    top: 600px;
+    left: 780px;
+    width: 15%;
+    height: 150px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    
+}
+.inside45{
+    position: absolute;
+    top: 600px;
+    left: 1030px;
+    width: 15%;
+    height: 150px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+.fnticn{
+    font-size: 70px;
+}
+
