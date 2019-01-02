@@ -27,7 +27,7 @@
     100% {top: 10px;  left: 5px;}
 
 }
-div#main{
+div.main{
     width: 350px;
     height: 400px;
     overflow: hidden;
