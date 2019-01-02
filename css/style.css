@@ -172,10 +172,13 @@ h2:after{
     border-radius: 10px; 
 }
 .txtsec1{
-    margin-top: 150px!important;
+    margin-top: 250px!important;
 }
 .txtsec2{
     margin-left: 210px!important;
+}
+.frame{
+    margin-top: 200px!important;
 }
 
 
