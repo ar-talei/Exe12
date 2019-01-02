@@ -12,3 +12,145 @@
     background-image: url(../img/bg-head.png);
     height: 700px;
 }
+
+
+@keyframes up{
+    10%  {top: 406px; left: 5px;}
+    20%  {top: 362px; left: 5px;}
+    30%  {top: 318px; left: 5px;}
+    40%  {top: 274px; left: 5px;}
+    50%  {top: 230px; left: 5px;}
+    60%  {top: 186px; left: 5px;}
+    70%  {top: 142px; left: 5px;}
+    80%  {top: 98px; left: 5px;}
+    90%  {top: 54px; left: 5px;}
+    100% {top: 10px;  left: 5px;}
+
+}
+div#main{
+    width: 350px;
+    height: 400px;
+    overflow: hidden;
+    position: relative;
+    top: -450px;
+    left: 190px;
+    
+
+}
+div.box{
+    width: 330px;
+    height: 50px;
+    margin: 5px;
+}
+.n1{
+    background-image: url(../img/1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    animation-name: up;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    position: relative;
+    top: 450px;
+}
+.n2{
+    background-image: url(../img/2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    animation-name: up;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    position: relative;
+    top: 450px;
+}
+.n3{
+    background-image: url(../img/3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    animation-name: up;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    position: relative;
+    top: 450px;
+}
+.n4{
+    background-image: url(../img/4.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    animation-name: up;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    position: relative;
+    top: 450px;
+}
+.n5{
+    background-image: url(../img/1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    animation-name: up;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    position: relative;
+    top: 450px;
+}
+.n6{
+    background-image: url(../img/2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    animation-name: up;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    position: relative;
+    top: 450px;
+}
+.n7{
+    background-image: url(../img/3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    animation-name: up;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    position: relative;
+    top: 450px;
+}
+.n8{
+    background-image: url(../img/4.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    animation-name: up;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    position: relative;
+    top: 450px;
+}
+.n9{
+    background-image: url(../img/1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    animation-name: up;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    position: relative;
+    top: 450px;
+}
+.n10{
+    background-image: url(../img/2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    animation-name: up;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    position: relative;
+    top: 450px;
+}
+
+
