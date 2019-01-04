@@ -193,6 +193,13 @@ h2:after{
 .frame{
     margin-top: 200px!important;
 }
+.frminpt{
+    background-color: transparent;
+    border-bottom: 1px solid #b3c6bf;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
 
+}
 
 
